@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">bujushiyan</string>
+    <string name="text_name">MyCal</string>
+    <string name="A">0</string>
+    <string name="B">1</string>
+    <string name="C">2</string>
+    <string name="D">3</string>
+    <string name="E">4</string>
+    <string name="F">5</string>
+    <string name="G">6</string>
+    <string name="H">7</string>
+    <string name="I">8</string>
+    <string name="J">9</string>
+    <string name="K">+</string>
+    <string name="L">-</string>
+    <string name="M">*</string>
+    <string name="N">/</string>
+    <string name="O">=</string>
+    <string name="P">.</string>
+</resources>
